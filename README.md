@@ -1,1 +1,0 @@
-# P2--Attendance-system-using-face-recognition
