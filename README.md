@@ -71,33 +71,10 @@ Download the Haarcascade XML file for face detection from the [OpenCV GitHub rep
 
 ---
 
-## Directory Structure
-```plaintext
-Attendance Management System using Face Recognition/
-│
-├── TrainingImage/               # Directory to store training images
-├── TrainingImageLabel/          # Directory to save trained model
-├── StudentDetails/              # Directory to save student details CSV
-├── Attendance/                  # Directory to save attendance records
-├── haarcascade_frontalface_default.xml  # Haarcascade file for face detection
-├── requirements.txt             # Required Python packages
-├── main_Run.py                  # Main application file
-├── training.py                  # Script for training the face recognition model
-├── testing.py                   # Script for testing face recognition
-├── mini_app.py                  # Simple GUI application for capturing images
-├── app.py                       # Streamlit app for attendance visualization
-└── README.md                    # Project documentation
-```
-
 ---
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or additional features, feel free to fork the repository and submit a pull request.
-
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
