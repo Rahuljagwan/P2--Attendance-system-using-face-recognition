@@ -2,7 +2,7 @@
 # Attendance Management System using Face Recognition
 
 ## Overview
-The **Attendance Management System** is a Python-based application that leverages face recognition technology to automate the process of tracking student attendance. This project uses OpenCV for face detection and recognition, along with a user-friendly graphical interface built with Tkinter. It includes features for capturing images for training, real-time face recognition, and managing attendance records efficiently.
+The **Attendance Tracking System** is a Python-driven application that utilizes facial recognition technology to streamline the student attendance process. This project employs OpenCV for detecting and recognizing faces, and incorporates a simple and intuitive graphical interface developed with Tkinter. It offers functionalities for capturing images to train the system, performing real-time facial recognition, and efficiently managing attendance logs.
 
 ---
 
@@ -23,6 +23,7 @@ The **Attendance Management System** is a Python-based application that leverage
 - **Pandas**
 - **MySQL**
 - **Pillow**
+- **Pyttsx3**
 
 ---
 
@@ -45,7 +46,7 @@ pip install -r requirements.txt
 - Update the database connection details in the code as needed.
 
 ### 4. Download Haarcascade
-Download the Haarcascade XML file for face detection from the [OpenCV GitHub repository](https://github.com/opencv/opencv) and place it in the project directory.
+Download the Haarcascade XML file for face detection from the [OpenCV GitHub repository] and place it in the project directory.
 
 ---
 
@@ -107,6 +108,4 @@ Special thanks to the following:
 - **NumPy** and **Pandas** for data manipulation and analysis.
 - **MySQL** for database management.
 
----
 
-For any questions or issues, feel free to contact **[your email]**.
